@@ -12,6 +12,13 @@ It displays image cards with pagination controls that adapt seamlessly on differ
 - Smooth card hover effect for better user experience.
 - Pure vanilla JavaScript — no external libraries or frameworks required.
 
+## Demo
+
+Here is a screenshot of the responsive card pagination project:
+
+![Responsive Card Pagination Screenshot](Image.png)
+
+
 
 ## How to Run
 
